@@ -18,12 +18,6 @@ The GeneTranslateR Shiny App is designed to assist in translating gene identifie
 - **Results:** View and download the translated gene identifiers along with additional information in a downloadable CSV file.
 - **multiMiR:** Explore miRNA-related information, target genes, drugs, and related diseases.
 
-## Screenshots
-
-
-![Screenshot 2](.‪C:\Users\KAREN\Desktop\captura.PNG)
-![Screenshot 1](‪C:\Users\KAREN\Desktop\Captura2.PNG)
-![Screenshot 3](‪C:\Users\KAREN\Desktop\Captura3.PNG)
 
 This project is licensed under the [MIT License](./LICENSE).
 
