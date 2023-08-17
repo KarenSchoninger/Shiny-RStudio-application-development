@@ -20,9 +20,10 @@ The GeneTranslateR Shiny App is designed to assist in translating gene identifie
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
 
+![Screenshot 2](.‪C:\Users\KAREN\Desktop\captura.PNG)
+![Screenshot 1](‪C:\Users\KAREN\Desktop\Captura2.PNG)
+![Screenshot 3](‪C:\Users\KAREN\Desktop\Captura3.PNG)
 
 This project is licensed under the [MIT License](./LICENSE).
 
